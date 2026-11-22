@@ -23,7 +23,7 @@
 
 **Tools & Platforms**
 
-[![Tools](https://skillicons.dev/icons?i=git,github,docker,maven,gradle,postman,idea,vscode)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,docker,jenkins,linux,maven,gradle,postman,idea,vscode)](https://skillicons.dev)
 
 ---
 
