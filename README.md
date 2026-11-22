@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Dikshanta Acharya 👋
 
-<!--
-**acharyadikshanta/acharyadikshanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Java Backend Developer | Spring Boot
 
-Here are some ideas to get you started:
+- 🚀 Passionate about backend development and software engineering.
+- 🌱 Currently learning System Design and Backend Architecture.
+- 🔭 Building applications with Java and Spring Boot.
+- 📍 Nepal 🇳🇵
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+**Languages**
+
+[![Languages](https://skillicons.dev/icons?i=java,ts,cs)](https://skillicons.dev)
+
+**Backend & Frameworks**
+
+[![Backend](https://skillicons.dev/icons?i=spring,hibernate)](https://skillicons.dev)
+
+**Databases**
+
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,redis)](https://skillicons.dev)
+
+**Tools & Platforms**
+
+[![Tools](https://skillicons.dev/icons?i=git,github,docker,maven,gradle,postman,idea,vscode)](https://skillicons.dev)
+
+---
+
+*Building things, learning continuously, and getting better every day.*
