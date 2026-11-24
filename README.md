@@ -5,7 +5,6 @@
 - 🚀 Passionate about backend development and software engineering.
 - 🌱 Currently learning System Design and Backend Architecture.
 - 🔭 Building applications with Java and Spring Boot.
-- 📍 Nepal 🇳🇵
 
 ### 🛠️ Tech Stack
 
